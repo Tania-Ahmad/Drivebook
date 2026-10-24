@@ -1,0 +1,281 @@
+[
+ {
+  "text": "?series=1",
+  "files": [
+   "pages/instructor/Calendar.jsx"
+  ]
+ },
+ {
+  "text": "application/ld+json",
+  "files": [
+   "components/Seo.jsx"
+  ]
+ },
+ {
+  "text": "application/pdf",
+  "files": [
+   "components/ProofViewer.jsx",
+   "utils/proofFile.js"
+  ]
+ },
+ {
+  "text": "auth.2fa",
+  "files": [
+   "components/SecurityLog.jsx"
+  ]
+ },
+ {
+  "text": "auth.account_locked",
+  "files": [
+   "components/SecurityLog.jsx"
+  ]
+ },
+ {
+  "text": "auth.login_failed",
+  "files": [
+   "components/SecurityLog.jsx"
+  ]
+ },
+ {
+  "text": "Bookee",
+  "files": [
+   "components/AuthShell.jsx",
+   "components/Sidebar.jsx"
+  ]
+ },
+ {
+  "text": "BusinessApplication",
+  "files": [
+   "pages/Welcome.jsx"
+  ]
+ },
+ {
+  "text": "Drive",
+  "files": [
+   "components/AuthShell.jsx",
+   "components/Sidebar.jsx",
+   "layouts/DashboardLayout.jsx"
+  ]
+ },
+ {
+  "text": "drivebook_demo",
+  "files": [
+   "context/AuthContext.jsx"
+  ]
+ },
+ {
+  "text": "drivebook_token",
+  "files": [
+   "context/AuthContext.jsx"
+  ]
+ },
+ {
+  "text": "drivebook_user",
+  "files": [
+   "context/AuthContext.jsx"
+  ]
+ },
+ {
+  "text": "DriveBookee",
+  "files": [
+   "pages/Welcome.jsx"
+  ]
+ },
+ {
+  "text": "DriveBookee ·",
+  "files": [
+   "pages/Welcome.jsx"
+  ]
+ },
+ {
+  "text": "DriveBookee is your master calendar. Your phone calendar can",
+  "files": [
+   "pages/instructor/Calendar.jsx"
+  ]
+ },
+ {
+  "text": "drivebookee-calendar.ics",
+  "files": [
+   "pages/instructor/Calendar.jsx"
+  ]
+ },
+ {
+  "text": "Europe/Copenhagen",
+  "files": [
+   "pages/instructor/MyBookings.jsx",
+   "pages/student/MyBookings.jsx",
+   "utils/slots.js"
+  ]
+ },
+ {
+  "text": "group-hover:scale-105",
+  "files": [
+   "components/Roadmap.jsx"
+  ]
+ },
+ {
+  "text": "index, follow, max-image-preview:large",
+  "files": [
+   "components/Seo.jsx"
+  ]
+ },
+ {
+  "text": "invoice-history.csv",
+  "files": [
+   "pages/instructor/Economy.jsx"
+  ]
+ },
+ {
+  "text": "kr.",
+  "files": [
+   "pages/instructor/Economy.jsx"
+  ]
+ },
+ {
+  "text": "left-[22px]",
+  "files": [
+   "pages/admin/Features.jsx"
+  ]
+ },
+ {
+  "text": "left-0.5",
+  "files": [
+   "pages/admin/Features.jsx"
+  ]
+ },
+ {
+  "text": "m.youtube.com",
+  "files": [
+   "components/VideoEmbed.jsx"
+  ]
+ },
+ {
+  "text": "M12 14l9-5-9-5-9 5 9 5zm0 0v6m-6-3.5V13",
+  "files": [
+   "pages/Welcome.jsx"
+  ]
+ },
+ {
+  "text": "M17 20h5v-2a4 4 0 00-5-3.87M9 20H4v-2a4 4 0 015-3.87m6-6.13a3 3 0 11-6 0 3 3 0 016 0z",
+  "files": [
+   "pages/Welcome.jsx"
+  ]
+ },
+ {
+  "text": "M3 21h18M5 21V7l7-4 7 4v14M9 21v-6h6v6",
+  "files": [
+   "pages/Welcome.jsx"
+  ]
+ },
+ {
+  "text": "M5 13l4 4L19 7",
+  "files": [
+   "pages/Welcome.jsx"
+  ]
+ },
+ {
+  "text": "noindex, nofollow",
+  "files": [
+   "components/Seo.jsx"
+  ]
+ },
+ {
+  "text": "opacity-40",
+  "files": [
+   "pages/admin/Calendar.jsx"
+  ]
+ },
+ {
+  "text": "opacity-50",
+  "files": [
+   "pages/instructor/Calendar.jsx"
+  ]
+ },
+ {
+  "text": "opacity-60",
+  "files": [
+   "components/Roadmap.jsx",
+   "pages/admin/Discounts.jsx",
+   "pages/admin/Packages.jsx"
+  ]
+ },
+ {
+  "text": "player.vimeo.com",
+  "files": [
+   "components/VideoEmbed.jsx"
+  ]
+ },
+ {
+  "text": "ring-4 ring-offset-2",
+  "files": [
+   "components/Roadmap.jsx"
+  ]
+ },
+ {
+  "text": "rotate-45",
+  "files": [
+   "pages/VideoGuide.jsx"
+  ]
+ },
+ {
+  "text": "SoftwareApplication",
+  "files": [
+   "pages/Welcome.jsx"
+  ]
+ },
+ {
+  "text": "stroke-dashoffset .6s",
+  "files": [
+   "components/Roadmap.jsx"
+  ]
+ },
+ {
+  "text": "text/calendar",
+  "files": [
+   "pages/instructor/Calendar.jsx",
+   "pages/student/MyBookings.jsx"
+  ]
+ },
+ {
+  "text": "text/csv",
+  "files": [
+   "pages/instructor/Economy.jsx"
+  ]
+ },
+ {
+  "text": "vimeo.com",
+  "files": [
+   "components/VideoEmbed.jsx"
+  ]
+ },
+ {
+  "text": "Web",
+  "files": [
+   "pages/Welcome.jsx"
+  ]
+ },
+ {
+  "text": "What",
+  "files": [
+   "components/SecurityLog.jsx"
+  ]
+ },
+ {
+  "text": "youtu.be",
+  "files": [
+   "components/VideoEmbed.jsx"
+  ]
+ },
+ {
+  "text": "youtube-nocookie.com",
+  "files": [
+   "components/VideoEmbed.jsx"
+  ]
+ },
+ {
+  "text": "youtube.com",
+  "files": [
+   "components/VideoEmbed.jsx"
+  ]
+ }
+]
